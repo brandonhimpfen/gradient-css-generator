@@ -1,0 +1,30 @@
+{
+  "name": "gradient-css-generator",
+  "version": "1.0.0",
+  "description": "A package that helps generate CSS gradients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhimpfen/gradient-css-generator.git"
+  },
+  "keywords": [
+    "gradient",
+    "css",
+    "generator",
+    "npm",
+    "package"
+  ],
+  "author": "Brandon Himpfen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/gradient-css-generator/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/gradient-css-generator#readme",
+  "dependencies": {
+    "color": "^3.2.0"
+  },
+  "devDependencies": {}
+}
