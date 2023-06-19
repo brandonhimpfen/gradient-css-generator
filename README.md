@@ -1,4 +1,4 @@
-# gradient-generator
+# gradient-css-generator
 
 A package that helps generate CSS gradients.
 
@@ -7,13 +7,13 @@ A package that helps generate CSS gradients.
 Install the package using npm:
 
 ```
-npm install gradient-generator
+npm install gradient-css-generator
 ```
 
 ## Usage
 
 ```
-const generateGradient = require('gradient-generator');
+const generateGradient = require('gradient-css-generator');
 
 const cssGradient = generateGradient('#ff0000', '#00ff00', 'to right');
 console.log(cssGradient);
